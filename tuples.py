@@ -1,0 +1,13 @@
+a=('p','y','t','h','o','n')
+print(a[0])
+print(a[5])
+print(a[-1])
+print(a[-3])
+print(a[1:4])
+print(a[:7])
+print(a[2:])
+print(a[:])
+print(a.count('p'))
+print(a.index('t'))
+print(len(a))
+
